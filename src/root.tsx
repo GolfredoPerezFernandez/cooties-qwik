@@ -5,7 +5,6 @@ import {
   ServiceWorkerRegister,
 } from "@builder.io/qwik-city";
 import { RouterHead } from "./components/router-head/router-head";
-import { Navbar } from "./components/navbar/navbar";
 import '@rainbow-me/rainbowkit/styles.css';
 
 import "./global.css";

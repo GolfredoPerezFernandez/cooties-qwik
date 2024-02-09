@@ -12,7 +12,7 @@ export default component$(() => {
 				console.log('I have been clicked!');
 			}
 		});
-    });;
+    });
 
     return () => {
       // Perform any cleanup here, such as stopping the animation or releasing resources.
