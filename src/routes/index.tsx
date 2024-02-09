@@ -12,10 +12,8 @@ export default component$(() => {
 				console.log('I have been clicked!');
 			}
 		});
-      // move the object in 3D space
     });;
 
-    // Cleanup function
     return () => {
       // Perform any cleanup here, such as stopping the animation or releasing resources.
     };
